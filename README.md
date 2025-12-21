@@ -47,7 +47,7 @@ Khuyến nghị sử dụng **Python 3.9+** và **GPU** để train.
 
 1. **Clone repository:**
    ```bash
-   git clone [https://github.com/username/project-name.git](https://github.com/username/project-name.git)
+   git clone https://github.com/Huyaccount/vvdc-project.git
    cd project-name
    pip install ultralytics
    
