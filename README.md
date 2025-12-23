@@ -102,11 +102,15 @@ train: dataset/images/train
 val: dataset/images/val
 test: dataset/images/test
 
-nc: 3
+nc: 7
 names:
-  - motorbike
   - car
-  - helmet
+  - coach
+  - bus
+  - truck
+  - pickup
+  - small truck
+  - license plate
 ```
 
 ### Label format
@@ -125,7 +129,7 @@ All values are normalized to `[0, 1]`.
 ultralytics train \
   model=yolov11.pt \
   data=data.yaml \
-  epochs=50 \
+  epochs=130 \
   imgsz=640 \
   batch=16 \
   device=0
