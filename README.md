@@ -57,7 +57,7 @@ Khuyến nghị sử dụng **Python 3.9+** và **GPU** để train.
 2. **📂 Dữ liệu (Dataset)**
 Bộ dữ liệu được tổ chức theo định dạng chuẩn của YOLO:
 
-![Link tải](https://img.shields.io/badge/Python-3.9%2B-blue)
+![DATASET]([https://img.shields.io/badge/Python-3.9%2B-blue](https://drive.google.com/drive/folders/1TSF8fh3Pum9QR7wzaII1DmhgaJNo4Tkt?usp=sharing))
 
 3. **🏋️ Huấn luyện (Training)**
 4. **📈 Kết quả (Metrics)**
